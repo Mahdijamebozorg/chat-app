@@ -1,12 +1,16 @@
-# chatapp
+# Chat App
 
 ## A realtime messaging app writen in flutter!
 
 ### Features:
-- private chats, channels, groups ...
-- socket connection
-- using Firebase as backend
-- shwoing connection state
-- reply messages
-- show last seen
-- message read state
+- Private chats, channels, groups ...
+- Socket connection
+- Using Firebase as backend
+- Showoing connection state
+- Reply messages
+- Show last seen
+- Message read state
+
+<p>---</p>
+
+<img src="screenshots/chat.gif" width=500>
